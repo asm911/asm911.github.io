@@ -11,6 +11,7 @@
     "angular": "~1.3.11",
     "jquery": "~2.1.3",
     "jquery-ui": "~1.11.2",
-    "jquery.event.drag-drop": "~2.2.1"
+    "jquery.event.drag-drop": "~2.2.1",
+    "slickgrid": "~2.1.0"
   }
 }
