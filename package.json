@@ -1,0 +1,25 @@
+{
+  "name": "asm911.github.io",
+  "version": "1.0.0",
+  "description": "dev server for hosting web site",
+  "main": "server.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/asm911/asm911.github.io.git"
+  },
+  "author": "asm911",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asm911/asm911.github.io/issues"
+  },
+  "homepage": "https://github.com/asm911/asm911.github.io",
+  "dependencies": {
+    "express": "^4.11.2"
+  }
+}
