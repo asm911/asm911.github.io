@@ -18,16 +18,10 @@
 <br/>
 
 <div ng-init="view=1" ng-if="view==1">
-    Example 1
-    <a href="#" ng-click="showHideLastColumn()">Show/Hide last command</a>
-    <sa-grid style="border-style: solid; border-width: 1px; margin: 10px; height: 100px;"
-             sa-grid-columns="columns"
-             sa-id-property="idProperty"
-             sa-grid-options="options"
-             sa-data-source="rows"></sa-grid>
+    <ng-include src="'views/example1.html'"></ng-include>
 </div>
 <div ng-if="view==2">
-    Example 2
+    <ng-include src="'views/example2.html'"></ng-include>
 </div>
 
 <script data-main="js/init" src="./bower_components/requirejs/require.js"></script>
