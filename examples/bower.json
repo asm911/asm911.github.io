@@ -1,0 +1,10 @@
+{
+  "name": "sa.grid.examples",
+  "version": "0.0.0",
+  "homepage": "https://github.com/asm911/asm911.github.io",
+  "authors": [
+    "asm911"
+  ],
+  "license": "MIT",
+  "private": true
+}
