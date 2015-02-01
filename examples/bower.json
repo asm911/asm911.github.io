@@ -13,6 +13,7 @@
     "jquery-ui": "~1.11.2",
     "jquery.event.drag-drop": "~2.2.1",
     "slickgrid": "~2.1.0",
-    "sa.grid": "~0.0.2"
+    "sa.grid": "~0.0.2",
+    "requirejs": "~2.1.15"
   }
 }
